@@ -5,4 +5,4 @@ Data source(s):
 https://www.kaggle.com/c/ncaam-march-mania-2021/
 
 Final bracket:
-[ml_madness_bracket.pdf](https://github.com/travis-tyler/ncaa_ml/files/6167424/ml_madness_bracket.pdf)
+[![alt text](https://github.com/travis-tyler/ncaa_ml/files/6167424/ml_madness_bracket.pdf?raw=true)
